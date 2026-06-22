@@ -104,26 +104,6 @@ Previsao_de_Sucesso_de_Filmes.ipynb
 
 ---
 
-##  Estrutura do Projeto
-
-```text
-projeto-filmes/
-│
-├── data/
-│   └── IMDBmovies.xlsx
-│
-├── notebooks/
-│   └── Previsao_de_Sucesso_de_Filmes.ipynb
-│
-├── images/
-│   ├── correlacao.png
-│   └── dispersao.png
-│
-├── README.md
-├── LICENSE
-└── requirements.txt
-```
-
 ---
 
 ##  Limitações
